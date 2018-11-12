@@ -1,5 +1,5 @@
 # PTM-Pro
-<strong><h1>PTM-Pro: Post translational modifications - profiling</h1></strong>
+<strong><h1>Post translational modifications - profiling</h1></strong>
 
 This repository is a Command line interface bash script for Linux and Mac. This program will fetch high confident PTM sites at peptide and protein level based on user-defined ptmRS probability cut-off. A summary of the number of PTM sites that qualify the said cut-off will be generated. Also, a PTM window consisting of 7 amino acids upstream and downstream of the PTM site will be provided. This window can be used for motif enrichment or to identify conserved motifs. The PTM-window can also be used for the comparision with PhosphoSitePlus database (Nov 12, 2018). 
 
@@ -15,4 +15,4 @@ user@userGitHub<strong>$</strong> bash PTM_Pro.sh \<probability_cut-off> \<datab
 &nbsp;&nbsp;&nbsp;&nbsp;\<input.txt>: Your input text file.<br><br>
 For detailed instructions for formatting and processing your input, please follow the published web portal <em><a href="http://ptm-pro.inhouseprotocols.com/">PTM-Pro</a></em>. <br><br>
 
-Please Cite: Patil, A. H., Datta, K. K., et al., Dissecting Candida pathobiology: Post-translational modifications on the Candida tropicalis proteome. 2018. OMICS: A Journal of Integrative Biology.
+<strong>Please Cite:</strong> Patil, A. H., Datta, K. K., et al., Dissecting Candida pathobiology: Post-translational modifications on the <em>Candida tropicalis</em> proteome. 2018. OMICS: A Journal of Integrative Biology.
