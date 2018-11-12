@@ -4,7 +4,7 @@
 This repository is a Command line interface bash script for Linux and Mac. This program will fetch high confident PTM sites at peptide and protein level based on user-defined ptmRS probability cut-off. A summary of the number of PTM sites that qualify the said cut-off will be generated. Also, a PTM window consisting of 7 amino acids upstream and downstream of the PTM site will be provided. This window can be used for motif enrichment or to identify conserved motifs. The PTM-window can also be used for the comparision with PhosphoSitePlus database (Nov 12, 2018). 
 
 <strong>HOW TO USE:</strong><br>
-Clone and Download the repository.<br><br>
+Clone or Download the repository.<br><br>
   <strong>Usage:</strong> <br>
 user@userGitHub<strong>$</strong> bash PTM_Pro.sh \<probability_cut-off> \<database> \<organism> \<input.txt><br>
   Example: bash PTM_Pro.sh 75 HsRefSeq75_NXP_cont.nr.062516.fasta human Ex_human_PTM_PSMs.txt<br><br>
