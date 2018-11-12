@@ -10,9 +10,9 @@ user@userGitHub<strong>$</strong> bash PTM_Pro.sh \<probability_cut-off> \<datab
   Example: bash PTM_Pro.sh 75 HsRefSeq75_NXP_cont.nr.062516.fasta human Ex_human_PTM_PSMs.txt<br><br>
   <strong>Options:</strong><br>
 &nbsp;&nbsp;&nbsp;&nbsp;\<probability_cut-off>: probability cut-off ( 0 to 100)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;\<database>: Formatted database (Click <a href="http://ptm-pro.inhouseprotocols.com/Databases/">here</a> for available databases or refer the header format)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;\<database>: Formatted database (Click <a href="http://ptm-pro.inhouseprotocols.com/Databases/" target="_blank">here</a> for available databases or refer the header format)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;\<organism>: For comparission with PhosphoSitePlus <br>
 &nbsp;&nbsp;&nbsp;&nbsp;\<input.txt>: Your input text file.<br><br>
-For detailed instructions for formatting and processing your input, please follow the published web portal <em><a href="http://ptm-pro.inhouseprotocols.com/">PTM-Pro</a></em>. <br><br>
+For detailed instructions for formatting and processing your input, please follow the published web portal <em><a href="http://ptm-pro.inhouseprotocols.com/" target="_blank">PTM-Pro</a></em>. <br><br>
 
 <strong>Please Cite:</strong> Patil, A. H., Datta, K. K., et al., Dissecting Candida pathobiology: Post-translational modifications on the <em>Candida tropicalis</em> proteome. 2018. OMICS: A Journal of Integrative Biology. <a href="https://www.ncbi.nlm.nih.gov/pubmed/30106353">[PubMed]</a>
