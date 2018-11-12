@@ -15,4 +15,4 @@ user@userGitHub<strong>$</strong> bash PTM_Pro.sh \<probability_cut-off> \<datab
 &nbsp;&nbsp;&nbsp;&nbsp;\<input.txt>: Your input text file.<br><br>
 For detailed instructions for formatting and processing your input, please follow the published web portal <em><a href="http://ptm-pro.inhouseprotocols.com/">PTM-Pro</a></em>. <br><br>
 
-<strong>Please Cite:</strong> Patil, A. H., Datta, K. K., et al., Dissecting Candida pathobiology: Post-translational modifications on the <em>Candida tropicalis</em> proteome. 2018. OMICS: A Journal of Integrative Biology.
+<strong>Please Cite:</strong> Patil, A. H., Datta, K. K., et al., Dissecting Candida pathobiology: Post-translational modifications on the <em>Candida tropicalis</em> proteome. 2018. OMICS: A Journal of Integrative Biology. <a href="https://www.ncbi.nlm.nih.gov/pubmed/30106353">[PubMed]</a>
